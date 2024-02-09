@@ -1,5 +1,5 @@
 {
-  "name": "TestApp",
+  "name": "rno-test-app",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -27,7 +27,9 @@
     "eslint": "^8.19.0",
     "jest": "^29.6.3",
     "prettier": "2.8.8",
+    "react-native-passkey": "^2.1.1",
     "react-test-renderer": "18.2.0",
+    "sha256-uint8array": "^0.10.7",
     "typescript": "5.0.4"
   },
   "engines": {
